@@ -1,3 +1,5 @@
+<h1><font color="red">0x00</font> Ima Newbie</h1>
+
 
 <?php echo base64_decode('cGVhY2UgYW5kIDwz');?>
 
