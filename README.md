@@ -8,8 +8,8 @@
     You smile. I smile. <3
 
 - 👀 I’m interested in ...
-- 
-    a ::= B | C.
+
+    ...how computers work
     
 - 🌱 I’m currently learning ...
 
@@ -18,10 +18,8 @@
 
 - 💞️ I’m looking to collaborate on ...
 
-    a → b ∗ a → 0 ∗ a → 0 ∗ (b ∗ a) → 0 ∗ ($(a) ∗ a) → 0 ∗ ($(1) ∗ 1)
+    Life
     
 - 📫 How to reach me ...
     
-    1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144   ' OR 1=1/*
-    
-    OSINT
+    ...dunno where I am 🤪
